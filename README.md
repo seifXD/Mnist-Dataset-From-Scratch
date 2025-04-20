@@ -1,5 +1,4 @@
 # Mnist Dataset From Scratch (No Pytorch, TensorFlow or keras)
-# MNIST Digit Classifier from Scratch
 
 This project implements a simple feedforward neural network from scratch to classify handwritten digits from the MNIST dataset. It avoids using high-level machine learning libraries like PyTorch or TensorFlow, relying instead on Python and NumPy. The goal is to show a clear understanding of how neural networks work under the hood.
 
