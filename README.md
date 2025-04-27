@@ -131,4 +131,4 @@ The model is trained over several epochs. After each epoch, the model's performa
 
 ## 🎯 Summary
 
-This project showcases a full neural network implementation built from the ground up using only NumPy and Python. Every core concept — forward propagation, activation functions (ReLU & Softmax), loss calculation, backpropagation, and weight updates — is implemented manually to give an inside look into how deep learning works under the hood.
+This project showcases a full neural network implementation built from the ground up using only NumPy and Python. Every core concept — forward propagation, activation functions (ReLU & Softmax), loss calculation, backpropagation, and weight updates is implemented manually to give an inside look into how deep learning works under the hood.
